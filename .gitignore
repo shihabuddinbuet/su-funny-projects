@@ -2,3 +2,7 @@
 *.class
 *.project
 *.pydevproject
+*.settings
+*.classpath
+*.MF
+pom.properties
