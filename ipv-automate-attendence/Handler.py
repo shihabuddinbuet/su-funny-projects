@@ -5,8 +5,8 @@ Created on Feb 10, 2017
 '''
 from httplib2 import debuglevel
 url = "https://www.facebook.com/"
-username = "+8801914288017"
-password = "01914288017"
+username = ""
+password = ""
 
 import urllib
 import urllib2
